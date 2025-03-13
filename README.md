@@ -2,10 +2,10 @@
  
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### **NAME: SHYAM GIDEON A
+### **DEPARTMENT: AIML
+### **ROLL NO: 212224240152
+### **DATE OF EXPERIMENT: 13/03/2025  
 
 ---
 
